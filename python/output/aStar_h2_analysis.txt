@@ -1,0 +1,7 @@
+The length of path,cost,excution time are based on successful search
+1. Solution Path Length      Average:12.54   total:627
+   Search Path Length        Average:191.52     total:9576
+2. There are 0 no solution in 50 searches
+3. Node Created Cost     Average:595.86   total:29793
+   Node Visited Cost     Average:145.42   total:7271
+   Execution Time        Average:0.08659071922302246  total:4.329535961151123

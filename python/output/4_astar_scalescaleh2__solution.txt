@@ -1,0 +1,22 @@
+A 0 J E G A C L I K H B F D
+H 3 J E G H C L I K A B F D
+B 1 J E G H C L I K B A F D
+F 1 J E G H C L I K B F A D
+I 1 J E G H C L A K B F I D
+G 1 J E A H C L G K B F I D
+H 1 J E H A C L G K B F I D
+J 2 A E H J C L G K B F I D
+B 2 B E H J C L G K A F I D
+D 2 B E H J C L G K D F I A
+I 1 B E H J C L G K D F A I
+G 1 B E H J C L A K D F G I
+L 1 B E H J C A L K D F G I
+F 1 B E H J C F L K D A G I
+G 1 B E H J C F L K D G A I
+I 1 B E H J C F L K D G I A
+J 2 B E H A C F L K D G I J
+K 1 B E H K C F L A D G I J
+L 1 B E H K C F A L D G I J
+I 1 B E H K C F I L D G A J
+J 1 B E H K C F I L D G J A
+26 675.5491125583649

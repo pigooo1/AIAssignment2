@@ -1,0 +1,25 @@
+A 0 B L E G F D I A J K C H
+I 1 B L E G F D A I J K C H
+C 1 B L E G F D C I J K A H
+H 1 B L E G F D C I J K H A
+I 1 B L E G F D C A J K H I
+G 1 B L E A F D C G J K H I
+E 1 B L A E F D C G J K H I
+L 1 B A L E F D C G J K H I
+D 1 B D L E F A C G J K H I
+C 1 B D L E F C A G J K H I
+L 1 B D A E F C L G J K H I
+D 1 B A D E F C L G J K H I
+C 1 B C D E F A L G J K H I
+K 1 B C D E F K L G J A H I
+H 1 B C D E F K L G J H A I
+L 1 B C D E F K A G J H L I
+G 1 B C D E F K G A J H L I
+I 1 B C D E F K G I J H L A
+L 1 B C D E F K G I J H A L
+H 1 B C D E F K G I J A H L
+K 1 B C D E F A G I J K H L
+G 1 B C D E F G A I J K H L
+H 1 B C D E F G H I J K A L
+L 1 B C D E F G H I J K L A
+23 147.97200918197632

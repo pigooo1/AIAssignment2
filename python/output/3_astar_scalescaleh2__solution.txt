@@ -1,0 +1,22 @@
+A 0 I L G K C H B E D F J A
+E 1 I L G K C H B A D F J E
+B 1 I L G K C H A B D F J E
+G 1 I L A K C H G B D F J E
+L 1 I A L K C H G B D F J E
+I 1 A I L K C H G B D F J E
+E 3 E I L K C H G B D F J A
+J 1 E I L K C H G B D F A J
+G 1 E I L K C H A B D F G J
+L 1 E I A K C H L B D F G J
+I 1 E A I K C H L B D F G J
+H 1 E H I K C A L B D F G J
+F 1 E H I K C F L B D A G J
+G 1 E H I K C F L B D G A J
+J 1 E H I K C F L B D G J A
+B 1 E H I K C F L A D G J B
+L 1 E H I K C F A L D G J B
+I 1 E H A K C F I L D G J B
+H 1 E A H K C F I L D G J B
+E 1 A E H K C F I L D G J B
+B 3 B E H K C F I L D G J A
+24 37.3122239112854
